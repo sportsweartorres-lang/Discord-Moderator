@@ -1,1 +1,3 @@
 # Discord-Moderator
+
+<a href="https://github.com/sportsweartorres-lang/Discord-Moderator/edit/main/README.md">Bot moderador de Discord</a> © 2024 POR <a href="https://discord.gg/MeYCP9g6cP">Patorca</a> tiene licencia bajo <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
